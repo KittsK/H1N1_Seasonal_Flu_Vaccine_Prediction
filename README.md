@@ -18,9 +18,10 @@ The dataset contains **26,707 rows** and **38 columns**.
 ---
 ## Data Preparation
 The data preparation phase involved several key steps to handle inconsistencies and prepare the data for modeling:
-**Handling Missing Values:** Missing values in various columns were imputed. For categorical columns, the mode was used, while for numerical columns, the mean was used.
-**Encoding Categorical Variables:** Categorical features were converted into a numerical format using one-hot encoding.
-**Feature Engineering:** Some columns were transformed or combined to create new, more informative features.
+
+* **Handling Missing Values:** Missing values in various columns were imputed. For categorical columns, the mode was used, while for numerical columns, the mean was used.
+* **Encoding Categorical Variables:** Categorical features were converted into a numerical format using one-hot encoding.
+* **Feature Engineering:** Some columns were transformed or combined to create new, more informative features.
 
 ---
 ## Methodology
