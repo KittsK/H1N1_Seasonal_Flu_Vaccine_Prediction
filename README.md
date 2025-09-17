@@ -74,6 +74,6 @@ The data preparation phase involved several key steps to handle inconsistencies 
 
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
 - Scikit-learn, XGBoost, RandomForestClassifier
-- CHI-Squared Test
+- Hypothesis Testing (CHI-Squared Test)
 - Jupyter Notebook
 - CRISP-DM methodology
